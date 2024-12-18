@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TVkc+srYzmQ=",
+  "dgSpecHash": "iiTtqDW7HHs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dstana\\source\\repos\\Diary\\DiaryApp\\DiaryApp.csproj",
+  "projectFilePath": "C:\\Users\\dstana\\source\\repos\\DiaryApp\\DiaryApp\\DiaryApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dstana\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\dstana\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

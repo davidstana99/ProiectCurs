@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dstana\\source\\repos\\Diary\\DiaryApp\\DiaryApp.csproj": {}
+    "C:\\Users\\dstana\\source\\repos\\DiaryApp\\DiaryApp\\DiaryApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dstana\\source\\repos\\Diary\\DiaryApp\\DiaryApp.csproj": {
+    "C:\\Users\\dstana\\source\\repos\\DiaryApp\\DiaryApp\\DiaryApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dstana\\source\\repos\\Diary\\DiaryApp\\DiaryApp.csproj",
+        "projectUniqueName": "C:\\Users\\dstana\\source\\repos\\DiaryApp\\DiaryApp\\DiaryApp.csproj",
         "projectName": "DiaryApp",
-        "projectPath": "C:\\Users\\dstana\\source\\repos\\Diary\\DiaryApp\\DiaryApp.csproj",
+        "projectPath": "C:\\Users\\dstana\\source\\repos\\DiaryApp\\DiaryApp\\DiaryApp.csproj",
         "packagesPath": "C:\\Users\\dstana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dstana\\source\\repos\\Diary\\DiaryApp\\obj\\",
+        "outputPath": "C:\\Users\\dstana\\source\\repos\\DiaryApp\\DiaryApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,7 +26,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/fodevops/_packaging/FONUGET/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/fodevops/_packaging/TESTFONUGET%40Local/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
