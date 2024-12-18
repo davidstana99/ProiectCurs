@@ -1,0 +1,80 @@
+# Fișiere generate de Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.unsuccessfulbuild
+*.buildlog
+*.ipch
+*.ide
+.idea/
+
+# Fișiere de build și output
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.log
+*.lib
+*.obj
+*.o
+*.idb
+*.tlog
+
+# Fișiere de configurație ale mediului de dezvoltare
+.env
+.env.*
+launchSettings.json
+
+# Fișiere temporare
+*.tmp
+*.temp
+*.log
+*.pid
+*.seed
+*.log.old
+*.log.*
+
+# Fișiere generate de sistemul de operare
+*.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Fișiere de pachete și cache
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+packages/
+.npm/
+.nuget/
+*.nupkg
+
+# Fișiere generate pentru deployment
+.publish/
+*.zip
+*.tar.gz
+
+# Fișiere generate de IDE-uri
+_ReSharper*/
+*.sln.docstates
+project.lock.json
+*.idea/
+.idea/
+*.vcxproj.user
+*.vcxproj.filters
+
+# Fișiere generate pentru baze de date locale
+*.db
+*.sqlite
+*.sqlite3
+*.mdf
+*.ldf
+
+# Alte fișiere specifice proiectului
+site.js.map
